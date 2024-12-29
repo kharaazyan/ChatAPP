@@ -18,18 +18,22 @@ A simple chat server and client application built with C using sockets and pthre
 
 ### Server
 
-1. Navigate to the server directory.
+1. Navigate to the Server directory.
 2. Compile the server using `make`:
    ```bash
    make
 Run the server:
 ./server
-Client
-Navigate to the client directory.
-Compile the client using make:
-make
+
+### Client
+
+1. Navigate to the Client directory.
+2. Compile the client using `make`:
+   ```bash
+   make
 Run the client:
 ./client
+
 Running Multiple Clients
 To test the chat functionality:
 
